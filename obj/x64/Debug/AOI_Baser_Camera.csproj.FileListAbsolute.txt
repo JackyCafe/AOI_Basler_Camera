@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\AOI_Baser_Camera\AOI_Baser_Camera\bin\x64\Debug\AOI_Baser_Camera.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\AOI_Baser_Camera\AOI_Baser_Camera\obj\x64\Debug\AOI_Baser_Camera.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\AOI_Baser_Camera\AOI_Baser_Camera\obj\x64\Debug\AOI_Baser_Camera.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\AOI_Baser_Camera\AOI_Baser_Camera\obj\x64\Debug\AOI_Baser_Camera.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\AOI_Baser_Camera\AOI_Baser_Camera\obj\x64\Debug\AOI_Baser_Camera.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\AOI_Baser_Camera\AOI_Baser_Camera\bin\x64\Debug\AOI_Baser_Camera.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AOI_Baser_Camera\AOI_Baser_Camera\bin\x64\Debug\AOI_Baser_Camera.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AOI_Baser_Camera\AOI_Baser_Camera\bin\x64\Debug\Basler.Pylon.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AOI_Baser_Camera\AOI_Baser_Camera\bin\x64\Debug\Basler.Pylon.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AOI_Baser_Camera\AOI_Baser_Camera\obj\x64\Debug\AOI_Baser_Camera.exe
+c:\users\administrator\documents\visual studio 2015\Projects\AOI_Baser_Camera\AOI_Baser_Camera\obj\x64\Debug\AOI_Baser_Camera.pdb
